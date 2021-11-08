@@ -32,6 +32,6 @@
     	- https://validator.w3.org 
 
 #Links
-    	- https://anitaprabhakar16.github.io/Anita_iit/index.html
+    	- https://anitaprabhakar16.github.io/Anita_iit/
 
 

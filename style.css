@@ -42,7 +42,7 @@ h2 {
 }
 
 .aboutme {
-    float: left;
+    float: center;
     width: 700px;
     list-style-type: none;
     line-height: 1.6;
