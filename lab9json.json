@@ -1,0 +1,34 @@
+{
+    "menuItem": [
+        {
+            "menuName": "Lab 2",
+            "menuDesc": "Resume",
+            "menuURL": "Lab 2/ITWSlab2.html"
+        },
+        {
+            "menuName": "Lab 3",
+            "menuDesc": "Website",
+            "menuURL": "index.html"
+        },
+        {
+            "menuName": "Lab 4",
+            "menuDesc": "XML Files",
+            "menuURL": "Lab 4/Lab4RSS.xml"
+        },
+        {
+            "menuName": "Lab 5",
+            "menuDesc": "Form",
+            "menuURL": "Lab 5/lab5_Anita.html"
+        },
+        {
+            "menuName": "Lab 6",
+            "menuDesc": "Click Functions in JS",
+            "menuURL": "Lab 6/lab6_Anita.html"
+        },
+        {
+            "menuName": "Lab 6",
+            "menuDesc": "XSS",
+            "menuURL": "Lab 8/lab8.html"
+        }
+    ]
+}
